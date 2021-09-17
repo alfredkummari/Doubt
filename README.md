@@ -1,2 +1,7 @@
 # Doubt
-Double
+QWERTY
+UIOP
+ASDFG
+HJKL
+ZXCV
+BNM
